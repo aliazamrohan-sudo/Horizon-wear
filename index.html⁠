@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horizon Wear | Iconic Streetwear & Apparel</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <header>
+        <div class="logo">
+            <h2>HORIZON <span>WEAR</span></h2>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#collection">Collection</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="nav-icons">
+            <a href="https://wa.me/8801908073743" target="_blank" class="btn-primary"><i class="fab fa-whatsapp"></i> Order Now</a>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <p class="tagline">TEES FOR THE FREE-SPIRITED</p>
+            <h1>Crafted with Comfort.<br>Designed with Soul.</h1>
+            <p class="subtext">Wear your story with our exclusive collection of oversized tees and streetwear hoodies.</p>
+            <a href="#collection" class="btn-secondary">Explore Collection</a>
+        </div>
+    </section>
+
+    <!-- Product Showcase Section -->
+    <section id="collection" class="products">
+        <h2 class="section-title">FEATURED PRODUCTS</h2>
+        <div class="product-grid">
+
+            <!-- Product Card 1 -->
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Oversized+Graphic+Tee" alt="Oversized Graphic Tee">
+                </div>
+                <div class="product-info">
+                    <h3>Oversized Graphic Tee</h3>
+                    <p class="category">Vintage Drop Shoulder</p>
+                    <div class="price-action">
+                        <span class="price">৳990</span>
+                        <a href="https://wa.me/8801908073743?text=Hi,%20I%20want%20to%20order%20Oversized%20Graphic%20Tee" class="order-btn">Buy Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Card 2 -->
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Streetwear+Hoodie" alt="Streetwear Hoodie">
+                </div>
+                <div class="product-info">
+                    <h3>Anime / Heavy Hoodie</h3>
+                    <p class="category">Premium Fleece Cotton</p>
+                    <div class="price-action">
+                        <span class="price">৳1,450</span>
+                        <a href="https://wa.me/8801908073743?text=Hi,%20I%20want%20to%20order%20Streetwear%20Hoodie" class="order-btn">Buy Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Card 3 -->
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Minimalist+Tee" alt="Minimalist Tee">
+                </div>
+                <div class="product-info">
+                    <h3>Minimalist Signature Tee</h3>
+                    <p class="category">100% Organic Cotton</p>
+                    <div class="price-action">
+                        <span class="price">৳850</span>
+                        <a href="https://wa.me/8801908073743?text=Hi,%20I%20want%20to%20order%20Minimalist%20Signature%20Tee" class="order-btn">Buy Now</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="about-container">
+            <h2>BE ICONIC. WEAR ICONIC.</h2>
+            <p>At Horizon Wear, we believe clothing is a form of self-expression. Based in Dhaka, Bangladesh, we bring you high-quality oversized tees and streetwear designed to make you feel comfortable and confident.</p>
+        </div>
+    </section>
+
+    <!-- Contact / Footer -->
+    <footer id="contact">
+        <div class="footer-content">
+            <h3>HORIZON WEAR</h3>
+            <p><i class="fas fa-map-marker-alt"></i> Dhaka, Bangladesh</p>
+            <p><i class="fas fa-phone"></i> +880 1908-073743</p>
+            <p><i class="fas fa-envelope"></i> aliazamrohan@gmail.com</p>
+            <div class="socials">
+                <a href="https://instagram.com/horizon_wearr" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://wa.me/8801908073743" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Horizon Wear. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
